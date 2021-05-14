@@ -1,0 +1,2 @@
+This E2E test is an edge case, as it checks whether or not the player can perform 'illegal' moves
+such as trying to step out of the grid boundaries, as well as trying to step onto a wall.

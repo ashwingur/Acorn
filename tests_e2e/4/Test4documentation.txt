@@ -1,0 +1,2 @@
+This E2E is a positive test that tests whether or not the game successfully ends when a player steps on fire
+without having a water bucket.

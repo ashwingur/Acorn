@@ -1,0 +1,3 @@
+This E2E test tests if the teleportation and waiting a step (e) correctly works (for when the player is trapped
+ in a room). This is a positive test case as
+the inputs are expected by the program.

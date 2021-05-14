@@ -1,0 +1,2 @@
+This E2E test checks for the player successfully picking up a water bucket, extinguishing a fire with it
+and completing the level. It is a positive test case.

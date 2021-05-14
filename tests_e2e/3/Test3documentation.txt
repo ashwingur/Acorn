@@ -1,0 +1,2 @@
+This E2E test tests the negative inputs that a user enters, but is not accepted by the program. This is 
+basically every input that is not (q,w,a,s,d,e)
